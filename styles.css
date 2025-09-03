@@ -1,9 +1,9 @@
 /* Modern responsive styles for ICSA demo */
 :root{
-  --bg:#0f1724;
+  --bg:#336699;
   --card:#0b1220;
   --accent:#2b8cff;
-  --accent-2:#6b5cff;
+  --accent-2:hsl(246, 100%, 68%);
   --muted:#98a0b3;
   --surface:#0b1220;
   --glass: rgba(255,255,255,0.04);
@@ -14,7 +14,7 @@ body{
   margin:0;
   font-family:Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;
   color:#e6eef8;
-  background:linear-gradient(180deg,#071025 0%, #071828 60%);
+  background: var(--bg);
   -webkit-font-smoothing:antialiased;
 }
 .container{max-width:1100px;margin:0 auto;padding:2rem}

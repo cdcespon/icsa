@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <rect width="200" height="80" rx="10" fill="#071427"/>
+  <circle cx="36" cy="40" r="20" fill="#6b5cff"/>
+  <text x="110" y="48" fill="#fff" font-family="Arial, sans-serif" font-weight="700" font-size="20">WENDYS</text>
+</svg>

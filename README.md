@@ -13,6 +13,9 @@ Archivos
 
 Cómo probarlo
 
+https://cdcespon.github.io/icsa/
+
+
 1) Abrir `index.html` directamente en un navegador (doble clic).
 
 2) O servirlo localmente desde PowerShell (recomendado para evitar restricciones de CORS si se extiende):
